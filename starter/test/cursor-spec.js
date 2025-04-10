@@ -17,6 +17,7 @@ describe ('Cursor', function () {
     expect(cursor.col).to.equal(0);
   });
 
+  
   it('correctly processes down inputs', function () {
 
     cursor.down();

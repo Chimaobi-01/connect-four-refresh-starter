@@ -63,7 +63,6 @@ describe ('Connect Four', function () {
 
   });
 
-
   it('recognizes diagonal downward wins', function () {
 
     grid = [[' ',' ',' ',' ',' ',' ',' '],
